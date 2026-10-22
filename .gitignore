@@ -1,0 +1,7 @@
+build/
+dist/
+out/
+.vs/
+*.user
+third_party/*
+!third_party/README.md
